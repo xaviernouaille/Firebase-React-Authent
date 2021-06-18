@@ -1,6 +1,6 @@
-import './index.css';
-import {BrowserRouter as Router} from 'react-router-dom'
-import RoutesWrapper from './routes/Routes';
+import './index.css'
+import { BrowserRouter as Router } from 'react-router-dom'
+import RoutesWrapper from './routes/Routes'
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
         <RoutesWrapper />
       </Router>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
