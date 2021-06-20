@@ -4,6 +4,10 @@ Système d'authentification avec comme front une interface développée avec Rea
 
 ## Overview
 
+![Screenshot 2021-06-20 at 14-52-47 React App](https://user-images.githubusercontent.com/68466322/122674881-3e665600-d1d7-11eb-8126-224ae2d40c6b.png)
+![Screenshot 2021-06-20 at 14-52-58 React App](https://user-images.githubusercontent.com/68466322/122674882-3f978300-d1d7-11eb-9d45-945f6b1349b8.png)
+![Screenshot 2021-06-20 at 14-53-07 React App](https://user-images.githubusercontent.com/68466322/122674884-40c8b000-d1d7-11eb-9a4f-4c7fe8c25220.png)
+
 ## Fonctionnalités
 
 - Connexion
@@ -12,6 +16,16 @@ Système d'authentification avec comme front une interface développée avec Rea
 - Routes protégées accessibles uniquement après authentification
 
 ## Utilisation
+
+### .env
+
+        REACT_APP_APIKEY=
+        REACT_APP_AUTHDOMAIN=
+        REACT_APP_PROJECTID=
+        REACT_APP_STORAGEBUCKET=
+        REACT_APP_MESSAGINGSENDID=
+        REACT_APP_APPID=
+        REACT_APP_BASEURL=
 
 ### Commandes
 
