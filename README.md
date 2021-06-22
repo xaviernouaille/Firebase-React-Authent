@@ -1,6 +1,6 @@
 # Firebase / React système d'authentification
 
-Système d'authentification avec comme front une interface développée avec ReactJS et comme back Firebase. Le but était de me familiariser avec l'utilisation de firebase.
+Système d'authentification avec comme front une interface développée avec ReactJS, TypeScript, TailwindCSS et comme back Firebase. Le but était de me familiariser avec l'utilisation de firebase.
 
 ## Overview
 
